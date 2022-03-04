@@ -1,0 +1,8 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@ --with python3 --buildsystem=pybuild
+
+override_dh_auto_configure:
+	pandoc doc/showinfilemanager.1.md -s -t man > showinfilemanager.1
+	dh_auto_configure

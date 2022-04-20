@@ -1,3 +1,9 @@
+show-in-file-manager (1.1.4-1) unstable; urgency=medium
+
+  * First upload in Debian (Closes: #1009782)
+
+ -- Tino Mettler <tino+debian@tikei.de>  Wed, 20 Apr 2022 23:22:03 +0200
+
 show-in-file-manager (1.1.4-0ubuntu1) jammy; urgency=medium
 
   * Initial release. (LP: #1963727)

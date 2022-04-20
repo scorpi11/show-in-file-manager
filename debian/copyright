@@ -10,6 +10,7 @@ License: Expat
 Files: debian/*
 Copyright: 2021, Damon Lynch <damonlynch@gmail.com>
            2022, Erich Eickmeyer <eeickmeyer@ubuntu.com>
+           2022, Tino Mettler <tino+debian@tikei.de>
 License: Expat
 
 Files: src/showinfm/system/urivalidate.py

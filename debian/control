@@ -1,9 +1,7 @@
 Source: show-in-file-manager
 Section: python
 Priority: optional
-Maintainer: Erich Eickmeyer <eeickmeyer@ubuntu.com>
-XSBC-Original-Maintainer: Damon Lynch <damonlynch@gmail.com>
-Uploaders: Damon Lynch <damonlynch@gmail.com>
+Maintainer: Debian Python Team <team+python@tracker.debian.org>
 Build-Depends:
  debhelper-compat (= 13),
  dh-python,

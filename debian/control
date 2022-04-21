@@ -12,8 +12,8 @@ Build-Depends:
  python3-setuptools
 Standards-Version: 4.6.0
 Homepage: https://github.com/damonlynch/showinfilemanager
-Vcs-Git: https://github.com/damonlynch/showinfilemanager.git
-Vcs-Browser: https://github.com/damonlynch/showinfilemanager
+Vcs-Git: https://salsa.debian.org/python-team/packages/python-show-in-file-manager.git
+Vcs-Browser: https://salsa.debian.org/python-team/packages/python-show-in-file-manager
 Rules-Requires-Root: no
 
 Package: python3-showinfilemanager
